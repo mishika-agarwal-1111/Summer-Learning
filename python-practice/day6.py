@@ -13,7 +13,7 @@ name=n[0:5]
 print(name) 
 name1=n[-1:-5:-1]
 print(name1)
-print(name.capitalize())
+print(name.capitalize())  
 
 
 
